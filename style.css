@@ -1,0 +1,20 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    display: flexbox;
+    text-align: center;
+}
+
+ul {
+    margin-bottom: 10px;
+    list-style: none;
+    align-items: center;
+  }
+
+  ul button {
+
+    font-size: 12px;
+    margin-left: 20px;
+    color: #666;
+    
+  }
